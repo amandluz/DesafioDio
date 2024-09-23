@@ -1,0 +1,13 @@
+# Desafio Projeto Iphone UML
+
+Segue entrega do desafio de projeto "Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet"
+
+Descrição do desafio: Chegou a hora de colocarmos em prática toda a concepção de análise de negócios, requisitos, conceitos da programação orientada a objetos e modelagem UML. Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma ferramenta de UML de sua preferência. A diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java.
+
+[Página do desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
+
+
+[![](https://mermaid.ink/img/pako:eNq1U01PwzAM_SuTTyCqql9rS4UmTXDhAEKAOKBeTON1Fl1cpe0EG_vvZGNI63pBAnJJ8vySZ7_EayhEEWRQVNg0V4ylwUWuR3bskBHfzUXTaP2FbcdZKwWak9MDpMauOYIaqqhg0WhuuoYL7AUrLo_o2JJW1MdYc8FoLsUYYnmSVS9Kb_zC5g5L1v3LUfGX8K0scfpyFGw7rHiFRwc3hyXfU21Eda3sU68Oq7-4YN2SmWFBk8lfmdKTn9ZoqJrLoyXPxHogP9H_paW9DG5xSSUqMddbKU3tTxL4j_fYfz7X_ZgMX2VIGTo35AxqAwcWZBbIynbBrs4c2jktKIfMLhWa1xxyvbE8tOoP77qArDUdOWCkK-eQzbBq7K6rlbV830LflBr1s8jhFrI1vEEWpm6QBEnix0Ec-1HsxQ68Qzb23SD2Qt8LvCQdh2kYbRxY7W7w3DSIoygOx1GYnvvnXuIAKd4asm_h7bT5BAyxJSQ?type=png)](https://mermaid.live/edit#pako:eNq1U01PwzAM_SuTTyCqql9rS4UmTXDhAEKAOKBeTON1Fl1cpe0EG_vvZGNI63pBAnJJ8vySZ7_EayhEEWRQVNg0V4ylwUWuR3bskBHfzUXTaP2FbcdZKwWak9MDpMauOYIaqqhg0WhuuoYL7AUrLo_o2JJW1MdYc8FoLsUYYnmSVS9Kb_zC5g5L1v3LUfGX8K0scfpyFGw7rHiFRwc3hyXfU21Eda3sU68Oq7-4YN2SmWFBk8lfmdKTn9ZoqJrLoyXPxHogP9H_paW9DG5xSSUqMddbKU3tTxL4j_fYfz7X_ZgMX2VIGTo35AxqAwcWZBbIynbBrs4c2jktKIfMLhWa1xxyvbE8tOoP77qArDUdOWCkK-eQzbBq7K6rlbV830LflBr1s8jhFrI1vEEWpm6QBEnix0Ec-1HsxQ68Qzb23SD2Qt8LvCQdh2kYbRxY7W7w3DSIoygOx1GYnvvnXuIAKd4asm_h7bT5BAyxJSQ)
+
+
+
