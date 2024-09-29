@@ -28,7 +28,7 @@ public class Test {
         robo.mover();
         robo.mover();
         robo.mover();
-		robo.status();
+	robo.status();
 
         robo.recarregar();
         robo.status();
